@@ -1,7 +1,7 @@
 #  Fullstack project – FastAPI To-Do App (MySQL + SQLAlchemy + React)
 
 
-This project is a backend service for a simple To-Do application.
+This project is a Fullstack service for a simple To-Do application.
 It is built using FastAPI and uses MySQL as the database and React as Frontend.
 The system supports full CRUD operations: creating, reading, updating, and deleting tasks.
 
